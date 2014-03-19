@@ -13,6 +13,7 @@
 	<archive filename="platform\mannco.bin" checksum="AC1B92D3" original="0EBEA1C6" size="4208"/>
 	<archive filename="steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
 	<archive filename="steam\steam.dll" checksum="12012370" original="36DEDBE5" size="335552"/>
+	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
 	<archive filename="steam\steamclient.dll" checksum="9E0DB26A" original="EC3CA811" size="8853696"/>
 	<archive filename="steam\tier0_s.dll" checksum="DDE2CA65" original="29A51723" size="257728"/>
 	<archive filename="steam\vstdlib_s.dll" checksum="7675F0EB" original="A0D42ECE" size="234176"/>
