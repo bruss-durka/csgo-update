@@ -7,11 +7,11 @@
 	<archive filename="bin\vstdlib_s.dll" checksum="A115A8F6" original="D7B585CC" size="217512"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="0B22C02E" original="CFA6C28F" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="E7BD90C4" original="AC6C927D" size="10958848"/>
+	<archive filename="csgo\bin\client.dll" checksum="D4FB8A21" original="59D0D0B8" size="11912192"/>
 	<archive filename="csgo\bin\server.dll" checksum="432FF717" original="50322146" size="9949184"/>
 	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="AC1685E4" original="D5DB2738" size="1628926"/>
 	<archive filename="csgo\resource\csgo_danish.txt" checksum="F15C4B5F" original="569F772E" size="1210230"/>
-	<archive filename="csgo\resource\csgo_english.txt" checksum="FC7BB401" original="695CD49B" size="871384"/>
+	<archive filename="csgo\resource\csgo_english.txt" checksum="3519C4D4" original="9AB7FEE5" size="872570"/>
 	<archive filename="csgo\resource\csgo_french.txt" checksum="92E942E0" original="4A11E71B" size="1615532"/>
 	<archive filename="csgo\resource\csgo_greek.txt" checksum="38D26DAF" original="298C5D90" size="978316"/>
 	<archive filename="csgo\resource\csgo_korean.txt" checksum="003FCCA1" original="A6D51A0E" size="1316364"/>
@@ -21,6 +21,7 @@
 	<archive filename="csgo\resource\csgo_spanish.txt" checksum="1C3F13C7" original="ECDBABF5" size="1648254"/>
 	<archive filename="csgo\resource\csgo_ukrainian.txt" checksum="7CF96AFD" original="CDD78CDD" size="1520076"/>
 	<archive filename="csgo\resource\flash\callvote.swf" checksum="E82CB41C" original="AB387589" size="11208"/>
+	<archive filename="csgo\resource\flash\scoreboard.swf" checksum="AF91D502" original="5E9F09EB" size="69522"/>
 	<archive filename="csgo\resource\flash\spectator.swf" checksum="052EE075" original="382DEF71" size="126883"/>
 	<archive filename="csgo\resource\flash\watchpanel.swf" checksum="9990870D" original="81F42150" size="107479"/>
 	<archive filename="csgo\steam.inf" checksum="F7262014" original="6CA51168" size="90"/>
