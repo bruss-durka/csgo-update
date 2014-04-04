@@ -1,30 +1,38 @@
 
 <list>
-	<archive filename="bin\engine.dll" checksum="3905EC00" original="EE842476" size="6017024"/>
-	<archive filename="bin\steamclient.dll" checksum="CFB7D7A7" original="759F755A" size="7167912"/>
-	<archive filename="bin\tier0_s.dll" checksum="EA51BE34" original="A7CD9EAC" size="243112"/>
+	<archive filename="bin\engine.dll" checksum="4BB4FFD7" original="E493460B" size="6017024"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="8CC4385A" original="0C8B4AEC" size="1687232"/>
-	<archive filename="bin\vstdlib_s.dll" checksum="A115A8F6" original="D7B585CC" size="217512"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="0B22C02E" original="CFA6C28F" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="D4FB8A21" original="59D0D0B8" size="11912192"/>
-	<archive filename="csgo\bin\server.dll" checksum="432FF717" original="50322146" size="9949184"/>
-	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="AC1685E4" original="D5DB2738" size="1628926"/>
-	<archive filename="csgo\resource\csgo_danish.txt" checksum="F15C4B5F" original="569F772E" size="1210230"/>
-	<archive filename="csgo\resource\csgo_english.txt" checksum="3519C4D4" original="9AB7FEE5" size="872570"/>
-	<archive filename="csgo\resource\csgo_french.txt" checksum="92E942E0" original="4A11E71B" size="1615532"/>
-	<archive filename="csgo\resource\csgo_greek.txt" checksum="38D26DAF" original="298C5D90" size="978316"/>
-	<archive filename="csgo\resource\csgo_korean.txt" checksum="003FCCA1" original="A6D51A0E" size="1316364"/>
-	<archive filename="csgo\resource\csgo_koreana.txt" checksum="003FCCA1" original="A6D51A0E" size="1316364"/>
-	<archive filename="csgo\resource\csgo_romanian.txt" checksum="2BD12B6D" original="43ED68BC" size="1611378"/>
-	<archive filename="csgo\resource\csgo_russian.txt" checksum="27ED4327" original="F66F37A7" size="1618920"/>
-	<archive filename="csgo\resource\csgo_spanish.txt" checksum="1C3F13C7" original="ECDBABF5" size="1648254"/>
-	<archive filename="csgo\resource\csgo_ukrainian.txt" checksum="7CF96AFD" original="CDD78CDD" size="1520076"/>
-	<archive filename="csgo\resource\flash\callvote.swf" checksum="E82CB41C" original="AB387589" size="11208"/>
-	<archive filename="csgo\resource\flash\scoreboard.swf" checksum="AF91D502" original="5E9F09EB" size="69522"/>
-	<archive filename="csgo\resource\flash\spectator.swf" checksum="052EE075" original="382DEF71" size="126883"/>
-	<archive filename="csgo\resource\flash\watchpanel.swf" checksum="9990870D" original="81F42150" size="107479"/>
-	<archive filename="csgo\steam.inf" checksum="F7262014" original="6CA51168" size="90"/>
+	<archive filename="csgo\bin\client.dll" checksum="A93F4E7A" original="C1303D3F" size="11912704"/>
+	<archive filename="csgo\resource\csgo_brazilian.txt" checksum="EFB2DEF3" original="0373EC1C" size="1631936"/>
+	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="90F6F1BA" original="07B69286" size="1644892"/>
+	<archive filename="csgo\resource\csgo_czech.txt" checksum="9ED8F25F" original="549F8259" size="1622730"/>
+	<archive filename="csgo\resource\csgo_dutch.txt" checksum="4014BE46" original="9B9DA4A7" size="1545724"/>
+	<archive filename="csgo\resource\csgo_english.txt" checksum="41CBA0BA" original="5F05587E" size="872664"/>
+	<archive filename="csgo\resource\csgo_finnish.txt" checksum="DC679EF3" original="83434529" size="1529140"/>
+	<archive filename="csgo\resource\csgo_french.txt" checksum="152BA0DC" original="CC919C2A" size="1666620"/>
+	<archive filename="csgo\resource\csgo_german.txt" checksum="549093E9" original="899CE7B3" size="1591166"/>
+	<archive filename="csgo\resource\csgo_greek.txt" checksum="EDE97EC9" original="1C939D4F" size="986968"/>
+	<archive filename="csgo\resource\csgo_hungarian.txt" checksum="66D3AEE1" original="C5950E3A" size="1634718"/>
+	<archive filename="csgo\resource\csgo_italian.txt" checksum="8176EF56" original="26C292AA" size="1674516"/>
+	<archive filename="csgo\resource\csgo_japanese.txt" checksum="E0642110" original="4762179B" size="1289696"/>
+	<archive filename="csgo\resource\csgo_korean.txt" checksum="60008CF1" original="623A95EE" size="1330596"/>
+	<archive filename="csgo\resource\csgo_koreana.txt" checksum="60008CF1" original="623A95EE" size="1330596"/>
+	<archive filename="csgo\resource\csgo_polish.txt" checksum="6C5921F3" original="F01105F8" size="1516272"/>
+	<archive filename="csgo\resource\csgo_portuguese.txt" checksum="BAA19460" original="81CB033A" size="1625150"/>
+	<archive filename="csgo\resource\csgo_romanian.txt" checksum="CDDC2927" original="D71FF525" size="1627914"/>
+	<archive filename="csgo\resource\csgo_russian.txt" checksum="109997F7" original="E3494E48" size="1624124"/>
+	<archive filename="csgo\resource\csgo_schinese.txt" checksum="31AFD3DE" original="11C8035A" size="1356940"/>
+	<archive filename="csgo\resource\csgo_spanish.txt" checksum="CD86E11F" original="1C2E50E1" size="1680116"/>
+	<archive filename="csgo\resource\csgo_swedish.txt" checksum="57390B6D" original="706471F8" size="1486784"/>
+	<archive filename="csgo\resource\csgo_tchinese.txt" checksum="F1A804BB" original="23799B2D" size="1288572"/>
+	<archive filename="csgo\resource\csgo_thai.txt" checksum="CE32E638" original="40BCD729" size="650836"/>
+	<archive filename="csgo\resource\csgo_ukrainian.txt" checksum="0018D6A2" original="E6B2CF3B" size="1547904"/>
+	<archive filename="csgo\resource\flash\hudvotepanel.swf" checksum="C683F57F" original="6D526CDD" size="8141"/>
+	<archive filename="csgo\resource\flash\pausemenu.swf" checksum="180DC669" original="B7971FC2" size="17286"/>
+	<archive filename="csgo\resource\flash\playerdetails.swf" checksum="D37A5592" original="8013FB53" size="66130"/>
+	<archive filename="csgo\resource\flash\scoreboard.swf" checksum="D31EABAC" original="7D9CEE78" size="69649"/>
 	<archive filename="platform\9110.bin" checksum="76A91F30" original="DD41C9BF" size="450"/>
 	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
 	<archive filename="platform\avatar_32.tga" checksum="572AE2B6" original="92228F55" size="4140"/>
