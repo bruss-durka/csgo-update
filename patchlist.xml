@@ -5,6 +5,7 @@
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="0B22C02E" original="CFA6C28F" size="103424"/>
 	<archive filename="csgo\bin\client.dll" checksum="A93F4E7A" original="C1303D3F" size="11912704"/>
+	<archive filename="csgo\maps\soundcache\_master.cache" checksum="9C891503" original="A92F0044" size="522725"/>
 	<archive filename="csgo\resource\csgo_brazilian.txt" checksum="EFB2DEF3" original="0373EC1C" size="1631936"/>
 	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="90F6F1BA" original="07B69286" size="1644892"/>
 	<archive filename="csgo\resource\csgo_czech.txt" checksum="9ED8F25F" original="549F8259" size="1622730"/>
@@ -33,6 +34,18 @@
 	<archive filename="csgo\resource\flash\pausemenu.swf" checksum="180DC669" original="B7971FC2" size="17286"/>
 	<archive filename="csgo\resource\flash\playerdetails.swf" checksum="D37A5592" original="8013FB53" size="66130"/>
 	<archive filename="csgo\resource\flash\scoreboard.swf" checksum="D31EABAC" original="7D9CEE78" size="69649"/>
+	<archive filename="csgo\sound\statsme\c4timer_1.mp3" checksum="17107C02" original="AD854BCE" size="9795"/>
+	<archive filename="csgo\sound\statsme\c4timer_10.mp3" checksum="809AEAF6" original="83E7A45A" size="12955"/>
+	<archive filename="csgo\sound\statsme\c4timer_2.mp3" checksum="CF9E1BA3" original="BD6A6BD0" size="8961"/>
+	<archive filename="csgo\sound\statsme\c4timer_20.mp3" checksum="4FCE19B4" original="7CB6308C" size="24473"/>
+	<archive filename="csgo\sound\statsme\c4timer_3.mp3" checksum="2011DCFD" original="BDEEC367" size="9090"/>
+	<archive filename="csgo\sound\statsme\c4timer_30.mp3" checksum="7E4B0016" original="C7AA7DE0" size="23693"/>
+	<archive filename="csgo\sound\statsme\c4timer_4.mp3" checksum="B368CD64" original="96F32EFA" size="9665"/>
+	<archive filename="csgo\sound\statsme\c4timer_5.mp3" checksum="ABBAF81C" original="C59FB2FD" size="10757"/>
+	<archive filename="csgo\sound\statsme\c4timer_6.mp3" checksum="FD0D4E32" original="A868254A" size="13791"/>
+	<archive filename="csgo\sound\statsme\c4timer_7.mp3" checksum="EDD55366" original="BABA544B" size="14627"/>
+	<archive filename="csgo\sound\statsme\c4timer_8.mp3" checksum="1B10643C" original="D46D02E3" size="11283"/>
+	<archive filename="csgo\sound\statsme\c4timer_9.mp3" checksum="2195E09D" original="5692DD84" size="14627"/>
 	<archive filename="platform\9110.bin" checksum="76A91F30" original="DD41C9BF" size="450"/>
 	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
 	<archive filename="platform\avatar_32.tga" checksum="572AE2B6" original="92228F55" size="4140"/>
