@@ -52,7 +52,7 @@
 	<archive filename="platform\avatar_64.tga" checksum="F80499C6" original="DE55BD69" size="16428"/>
 	<archive filename="platform\avatar32x32.bmp" checksum="69180B7F" original="ADD87D9D" size="4166"/>
 	<archive filename="platform\avatar64x64.bmp" checksum="4A236CBD" original="8FD20F58" size="16454"/>
-	<archive filename="platform\items_730.bin" checksum="96DCED4A" original="443EA5C9" size="24864"/>
+	<archive filename="platform\items_730.bin" checksum="BF8C060E" original="77C0E5AA" size="22244"/>
 	<archive filename="platform\mannco.bin" checksum="4137FBFD" original="36783734" size="3627"/>
 	<archive filename="steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
 	<archive filename="steam\steam.dll" checksum="2D0B50AC" original="434564AB" size="336064"/>
