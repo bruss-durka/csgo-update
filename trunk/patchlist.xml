@@ -4,7 +4,7 @@
 	<archive filename="bin\tools\steamcmd.exe" checksum="8CC4385A" original="0C8B4AEC" size="1687232"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="758BB34D" original="0084498B" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="A93F4E7A" original="C1303D3F" size="11912704"/>
+	<archive filename="csgo\bin\client.dll" checksum="5A13577F" original="EC50DC4C" size="11951104"/>
 	<archive filename="csgo\maps\soundcache\_master.cache" checksum="9C891503" original="A92F0044" size="522725"/>
 	<archive filename="csgo\resource\csgo_brazilian.txt" checksum="EFB2DEF3" original="0373EC1C" size="1631936"/>
 	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="90F6F1BA" original="07B69286" size="1644892"/>
