@@ -4,7 +4,7 @@
 	<archive filename="bin\tools\steamcmd.exe" checksum="8CC4385A" original="0C8B4AEC" size="1687232"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="71F9F0A1" original="AA1C1304" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="5A13577F" original="EC50DC4C" size="11951104"/>
+	<archive filename="csgo\bin\client.dll" checksum="5B4E7575" original="81139150" size="11611648"/>
 	<archive filename="csgo\maps\soundcache\_master.cache" checksum="9C891503" original="A92F0044" size="522725"/>
 	<archive filename="csgo\resource\csgo_brazilian.txt" checksum="EFB2DEF3" original="0373EC1C" size="1631936"/>
 	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="90F6F1BA" original="07B69286" size="1644892"/>
@@ -55,7 +55,7 @@
 	<archive filename="platform\items_730.bin" checksum="AFF00E30" original="56AEF792" size="24857"/>
 	<archive filename="platform\mannco.bin" checksum="68DAAAC5" original="C36196BA" size="3686"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
-	<archive filename="steam\Steam.dll" checksum="2D0B50AC" original="434564AB" size="336064"/>
+	<archive filename="steam\Steam.dll" checksum="E2AD9F27" original="8D9F306E" size="359104"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
 	<archive filename="steam\steamclient.dll" checksum="1F123DAF" original="B1AF0B80" size="8873664"/>
 	<archive filename="steam\tier0_s.dll" checksum="72F15060" original="140E25F3" size="284864"/>
