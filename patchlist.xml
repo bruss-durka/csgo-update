@@ -67,5 +67,5 @@
 	<archive filename="steam\vstdlib_s.dll" checksum="4E51A841" original="BE9A0634" size="248512"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
 	<archive filename="steamclient.dll" checksum="17D3ADEC" original="7B266846" size="2483200"/>
-	<archive filename="tool.exe" checksum="DDB38C9B" original="7B5820FA" size="132957"/>
+	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
 </list>
