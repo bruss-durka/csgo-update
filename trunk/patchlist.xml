@@ -1,6 +1,5 @@
 
 <list>
-	<archive filename="bin\tools\steam.inf" checksum="642D270C" original="8C0E0ED6" size="90"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="11E31C35" original="138A6E26" size="1598888"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="2C03C8FC" original="7484C9D6" size="103424"/>
