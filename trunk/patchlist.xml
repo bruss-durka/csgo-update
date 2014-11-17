@@ -1,7 +1,7 @@
 
 <list>
-	<archive filename="bin\engine.dll" checksum="770B2A37" original="BEA6BD10" size="5842432"/>
-	<archive filename="bin\tools\steamcmd.exe" checksum="8CC4385A" original="0C8B4AEC" size="1687232"/>
+	<archive filename="bin\tools\steam.inf" checksum="642D270C" original="8C0E0ED6" size="90"/>
+	<archive filename="bin\tools\steamcmd.exe" checksum="11E31C35" original="138A6E26" size="1598888"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="2C03C8FC" original="7484C9D6" size="103424"/>
 	<archive filename="csgo\bin\client.dll" checksum="D135944B" original="8C51A207" size="12271104"/>
@@ -41,6 +41,7 @@
 	<archive filename="csgo\resource\flash\pausemenu.swf" checksum="A402246D" original="FDA7D47E" size="17781"/>
 	<archive filename="csgo\sound\statsme\c4timer_1.mp3" checksum="17107C02" original="AD854BCE" size="9795"/>
 	<archive filename="csgo\sound\statsme\c4timer_10.mp3" checksum="809AEAF6" original="83E7A45A" size="12955"/>
+	<archive filename="csgo\sound\statsme\c4timer_10x.mp3" checksum="6CDB68E8" original="BE7C59A6" size="24028"/>
 	<archive filename="csgo\sound\statsme\c4timer_2.mp3" checksum="CF9E1BA3" original="BD6A6BD0" size="8961"/>
 	<archive filename="csgo\sound\statsme\c4timer_20.mp3" checksum="4FCE19B4" original="7CB6308C" size="24473"/>
 	<archive filename="csgo\sound\statsme\c4timer_3.mp3" checksum="2011DCFD" original="BDEEC367" size="9090"/>
@@ -68,7 +69,7 @@
 	<archive filename="steam\tier0_s.dll" checksum="0BAAEC3B" original="D57B708A" size="277184"/>
 	<archive filename="steam\vstdlib_s.dll" checksum="ABCC8227" original="6DCC210B" size="261824"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
-	<archive filename="steamclient.dll" checksum="17D3ADEC" original="7B266846" size="2483200"/>
+	<archive filename="steamclient.dll" checksum="85607062" original="1BE6516B" size="2470400"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
 	<archive filename="UltimateNameChanger.exe" checksum="288CF6AE" original="C0799CD7" size="35328"/>
 </list>
