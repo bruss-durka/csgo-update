@@ -1,5 +1,7 @@
 
 <list>
+	<archive filename="bin\engine.dll" checksum="594C8682" original="5D5AB12E" size="5842432"/>
+	<archive filename="bin\tools\extension\bin\engine.dll" checksum="594C8682" original="5D5AB12E" size="5842432"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="11E31C35" original="138A6E26" size="1598888"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="2C03C8FC" original="7484C9D6" size="103424"/>
@@ -51,6 +53,7 @@
 	<archive filename="csgo\sound\statsme\c4timer_7.mp3" checksum="EDD55366" original="BABA544B" size="14627"/>
 	<archive filename="csgo\sound\statsme\c4timer_8.mp3" checksum="1B10643C" original="D46D02E3" size="11283"/>
 	<archive filename="csgo\sound\statsme\c4timer_9.mp3" checksum="2195E09D" original="5692DD84" size="14627"/>
+	<archive filename="csgo\steam.inf" checksum="642D270C" original="8C0E0ED6" size="90"/>
 	<archive filename="msvbvm60.dll" checksum="01B3B4AE" original="E92337D1" size="673280"/>
 	<archive filename="platform\9110.bin" checksum="18CEF5C4" original="A412BD62" size="439"/>
 	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
