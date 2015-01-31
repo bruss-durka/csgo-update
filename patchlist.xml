@@ -57,14 +57,14 @@
 	<archive filename="csgo\sound\statsme\c4timer_9.mp3" checksum="2195E09D" original="5692DD84" size="14627"/>
 	<archive filename="csgo\steam.inf" checksum="642D270C" original="8C0E0ED6" size="90"/>
 	<archive filename="msvbvm60.dll" checksum="01B3B4AE" original="E92337D1" size="673280"/>
-	<archive filename="platform\9110.bin" checksum="18CEF5C4" original="A412BD62" size="439"/>
+	<archive filename="platform\9110.bin" checksum="7AAEF1FE" original="5797B57F" size="438"/>
 	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
 	<archive filename="platform\avatar_32.tga" checksum="572AE2B6" original="92228F55" size="4140"/>
 	<archive filename="platform\avatar_64.tga" checksum="F80499C6" original="DE55BD69" size="16428"/>
 	<archive filename="platform\avatar32x32.bmp" checksum="69180B7F" original="ADD87D9D" size="4166"/>
 	<archive filename="platform\avatar64x64.bmp" checksum="4A236CBD" original="8FD20F58" size="16454"/>
-	<archive filename="platform\items_730.bin" checksum="E65793FF" original="7EB162AD" size="45431"/>
-	<archive filename="platform\mannco.bin" checksum="5487C273" original="1AAF438D" size="15976"/>
+	<archive filename="platform\items_730.bin" checksum="31F9E1A2" original="091DC68A" size="51071"/>
+	<archive filename="platform\mannco.bin" checksum="35B8DD59" original="AC1B216F" size="20826"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
 	<archive filename="steam\Steam.dll" checksum="0545786C" original="B283D2BA" size="358080"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
