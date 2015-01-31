@@ -1,13 +1,13 @@
 
 <list>
-	<archive filename="bin\engine.dll" checksum="F65AC1D4" original="3625E8A0" size="6195712"/>
+	<archive filename="bin\engine.dll" checksum="76EA378E" original="9CCD80F1" size="6197248"/>
 	<archive filename="bin\serverbrowser.dll" checksum="D4507F1B" original="5B72E77F" size="969216"/>
-	<archive filename="bin\tools\extension\bin\engine.dll" checksum="F65AC1D4" original="3625E8A0" size="6195712"/>
-	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="36037433" original="BFA480F8" size="12303360"/>
+	<archive filename="bin\tools\extension\bin\engine.dll" checksum="76EA378E" original="9CCD80F1" size="6197248"/>
+	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="C4F7098A" original="000E5E27" size="12316160"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="5AE58282" original="7CDDB6F1" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="36037433" original="BFA480F8" size="12303360"/>
+	<archive filename="csgo\bin\client.dll" checksum="C4F7098A" original="000E5E27" size="12316160"/>
 	<archive filename="csgo\bin\matchmaking.dll" checksum="4361C599" original="1014A53C" size="583168"/>
 	<archive filename="csgo\bin\server.dll" checksum="E0425DD0" original="F99084C6" size="9808896"/>
 	<archive filename="csgo\motd.txt" checksum="37170754" original="582FD26B" size="44"/>
@@ -66,13 +66,13 @@
 	<archive filename="platform\items_730.bin" checksum="E65793FF" original="7EB162AD" size="45431"/>
 	<archive filename="platform\mannco.bin" checksum="5487C273" original="1AAF438D" size="15976"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
-	<archive filename="steam\Steam.dll" checksum="A1486AEA" original="6EFE9E34" size="350400"/>
+	<archive filename="steam\Steam.dll" checksum="0545786C" original="B283D2BA" size="358080"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
-	<archive filename="steam\steamclient.dll" checksum="B7255799" original="CC308597" size="9519296"/>
-	<archive filename="steam\tier0_s.dll" checksum="F3663E0A" original="8E3FB76F" size="277184"/>
-	<archive filename="steam\vstdlib_s.dll" checksum="E174EAB7" original="3D43BC44" size="261824"/>
+	<archive filename="steam\steamclient.dll" checksum="B803F69E" original="2881A138" size="9665216"/>
+	<archive filename="steam\tier0_s.dll" checksum="F3FD535A" original="4FFB5E3B" size="277696"/>
+	<archive filename="steam\vstdlib_s.dll" checksum="E1063C51" original="4CA85BD7" size="261312"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
-	<archive filename="steamclient.dll" checksum="C0E507BD" original="64B8DC7A" size="2484224"/>
+	<archive filename="steamclient.dll" checksum="390F6A19" original="27FFACD2" size="2488832"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
 	<archive filename="UltimateNameChanger.exe" checksum="288CF6AE" original="C0799CD7" size="35328"/>
 </list>
