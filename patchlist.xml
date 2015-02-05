@@ -1,13 +1,11 @@
 
 <list>
-	<archive filename="bin\engine.dll" checksum="76EA378E" original="9CCD80F1" size="6197248"/>
 	<archive filename="bin\serverbrowser.dll" checksum="D4507F1B" original="5B72E77F" size="969216"/>
-	<archive filename="bin\tools\extension\bin\engine.dll" checksum="76EA378E" original="9CCD80F1" size="6197248"/>
-	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="C4F7098A" original="000E5E27" size="12316160"/>
+	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="57195993" original="96D2D5C9" size="12294144"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
-	<archive filename="csgo.exe" checksum="5AE58282" original="7CDDB6F1" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="C4F7098A" original="000E5E27" size="12316160"/>
+	<archive filename="csgo.exe" checksum="7D7254B2" original="16D2C048" size="103424"/>
+	<archive filename="csgo\bin\client.dll" checksum="57195993" original="96D2D5C9" size="12294144"/>
 	<archive filename="csgo\bin\matchmaking.dll" checksum="4361C599" original="1014A53C" size="583168"/>
 	<archive filename="csgo\bin\server.dll" checksum="E0425DD0" original="F99084C6" size="9808896"/>
 	<archive filename="csgo\motd.txt" checksum="37170754" original="582FD26B" size="44"/>
