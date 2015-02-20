@@ -1,11 +1,11 @@
 
 <list>
 	<archive filename="bin\serverbrowser.dll" checksum="D4507F1B" original="5B72E77F" size="969216"/>
-	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="3CF79900" original="420B5701" size="12298240"/>
+	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="8C33E485" original="ABD92AF2" size="12296192"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="E85E0FBC" original="F3FDA631" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="3CF79900" original="420B5701" size="12298240"/>
+	<archive filename="csgo\bin\client.dll" checksum="8C33E485" original="ABD92AF2" size="12296192"/>
 	<archive filename="csgo\bin\matchmaking.dll" checksum="4361C599" original="1014A53C" size="583168"/>
 	<archive filename="csgo\bin\server.dll" checksum="E0425DD0" original="F99084C6" size="9808896"/>
 	<archive filename="csgo\motd.txt" checksum="37170754" original="582FD26B" size="44"/>
@@ -65,11 +65,11 @@
 	<archive filename="platform\items_730.bin" checksum="0777AE68" original="B2A59744" size="51515"/>
 	<archive filename="platform\mannco.bin" checksum="5487C273" original="1AAF438D" size="15976"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
-	<archive filename="steam\Steam.dll" checksum="0545786C" original="B283D2BA" size="358080"/>
+	<archive filename="steam\Steam.dll" checksum="F582CD0B" original="C01BA9E4" size="358592"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
-	<archive filename="steam\steamclient.dll" checksum="B803F69E" original="2881A138" size="9665216"/>
-	<archive filename="steam\tier0_s.dll" checksum="F3FD535A" original="4FFB5E3B" size="277696"/>
-	<archive filename="steam\vstdlib_s.dll" checksum="E1063C51" original="4CA85BD7" size="261312"/>
+	<archive filename="steam\steamclient.dll" checksum="7DBB9448" original="93573A92" size="9698496"/>
+	<archive filename="steam\tier0_s.dll" checksum="BC3197EA" original="CC3C737C" size="277696"/>
+	<archive filename="steam\vstdlib_s.dll" checksum="72AE84FF" original="353CC154" size="260800"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
 	<archive filename="steamclient.dll" checksum="7C2FA9C3" original="A1B9D8D7" size="2475008"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
