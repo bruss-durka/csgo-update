@@ -1,45 +1,10 @@
 
 <list>
-	<archive filename="bin\serverbrowser.dll" checksum="D4507F1B" original="5B72E77F" size="969216"/>
 	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="8C33E485" original="ABD92AF2" size="12296192"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="E85E0FBC" original="F3FDA631" size="103424"/>
 	<archive filename="csgo\bin\client.dll" checksum="8C33E485" original="ABD92AF2" size="12296192"/>
-	<archive filename="csgo\bin\matchmaking.dll" checksum="4361C599" original="1014A53C" size="583168"/>
-	<archive filename="csgo\bin\server.dll" checksum="E0425DD0" original="F99084C6" size="9808896"/>
-	<archive filename="csgo\motd.txt" checksum="37170754" original="582FD26B" size="44"/>
-	<archive filename="csgo\resource\csgo_brazilian.txt" checksum="A94DC1ED" original="82F47D37" size="2099118"/>
-	<archive filename="csgo\resource\csgo_bulgarian.txt" checksum="CB3278A2" original="5A007590" size="1832656"/>
-	<archive filename="csgo\resource\csgo_czech.txt" checksum="EEAC75F9" original="06302A04" size="2008024"/>
-	<archive filename="csgo\resource\csgo_danish.txt" checksum="5554C7F4" original="E364817F" size="1412714"/>
-	<archive filename="csgo\resource\csgo_dutch.txt" checksum="5D0D8E3F" original="878007FE" size="1794350"/>
-	<archive filename="csgo\resource\csgo_english.txt" checksum="3AD78F39" original="82C5EE4E" size="1098528"/>
-	<archive filename="csgo\resource\csgo_finnish.txt" checksum="235570A6" original="909CA0B5" size="1614320"/>
-	<archive filename="csgo\resource\csgo_french.txt" checksum="A6CCF0C7" original="6AEB0CC8" size="2124662"/>
-	<archive filename="csgo\resource\csgo_german.txt" checksum="5A21C0A2" original="9DF0BBB8" size="2075406"/>
-	<archive filename="csgo\resource\csgo_greek.txt" checksum="74E50DBA" original="CF824D90" size="1618278"/>
-	<archive filename="csgo\resource\csgo_hungarian.txt" checksum="9DFBB6D1" original="E2A8DAF5" size="2060370"/>
-	<archive filename="csgo\resource\csgo_italian.txt" checksum="93B2EF56" original="9CC886FF" size="2064258"/>
-	<archive filename="csgo\resource\csgo_japanese.txt" checksum="DB627B4D" original="39BE04A0" size="1447854"/>
-	<archive filename="csgo\resource\csgo_korean.txt" checksum="CC60B060" original="FCF69F02" size="1508884"/>
-	<archive filename="csgo\resource\csgo_koreana.txt" checksum="CC60B060" original="FCF69F02" size="1508884"/>
-	<archive filename="csgo\resource\csgo_norwegian.txt" checksum="3C47394F" original="9ECFFF6C" size="1267556"/>
-	<archive filename="csgo\resource\csgo_pirate.txt" checksum="A414D4A2" original="21A22978" size="348786"/>
-	<archive filename="csgo\resource\csgo_polish.txt" checksum="572ABCC4" original="DAA21918" size="2071510"/>
-	<archive filename="csgo\resource\csgo_portuguese.txt" checksum="418D089F" original="D86FA7D9" size="2096224"/>
-	<archive filename="csgo\resource\csgo_romanian.txt" checksum="CCD6962C" original="CB036F9F" size="2003338"/>
-	<archive filename="csgo\resource\csgo_russian.txt" checksum="FEF4DC95" original="17D5E18D" size="2009808"/>
-	<archive filename="csgo\resource\csgo_schinese.txt" checksum="B913450C" original="6FF54F33" size="1686764"/>
-	<archive filename="csgo\resource\csgo_spanish.txt" checksum="ED2493E9" original="3F5C0E4E" size="2124624"/>
-	<archive filename="csgo\resource\csgo_swedish.txt" checksum="EE0C5688" original="D5BC5B87" size="1741494"/>
-	<archive filename="csgo\resource\csgo_tchinese.txt" checksum="64194EB8" original="6FA8B2A3" size="1554626"/>
-	<archive filename="csgo\resource\csgo_thai.txt" checksum="013F4469" original="C75F545D" size="1039474"/>
-	<archive filename="csgo\resource\csgo_turkish.txt" checksum="E59C687C" original="6AFE09B5" size="1951700"/>
-	<archive filename="csgo\resource\csgo_ukrainian.txt" checksum="3D91661A" original="13308D7D" size="1945604"/>
-	<archive filename="csgo\resource\flash\hudalertspanel.swf" checksum="BADFCF78" original="08D86C22" size="24086"/>
-	<archive filename="csgo\resource\flash\medals.swf" checksum="7CCB06DC" original="3654BA0E" size="592946"/>
-	<archive filename="csgo\resource\flash\pausemenu.swf" checksum="A402246D" original="FDA7D47E" size="17781"/>
 	<archive filename="csgo\sound\statsme\c4timer_1.mp3" checksum="17107C02" original="AD854BCE" size="9795"/>
 	<archive filename="csgo\sound\statsme\c4timer_10.mp3" checksum="809AEAF6" original="83E7A45A" size="12955"/>
 	<archive filename="csgo\sound\statsme\c4timer_10x.mp3" checksum="6CDB68E8" original="BE7C59A6" size="24028"/>
@@ -53,7 +18,6 @@
 	<archive filename="csgo\sound\statsme\c4timer_7.mp3" checksum="EDD55366" original="BABA544B" size="14627"/>
 	<archive filename="csgo\sound\statsme\c4timer_8.mp3" checksum="1B10643C" original="D46D02E3" size="11283"/>
 	<archive filename="csgo\sound\statsme\c4timer_9.mp3" checksum="2195E09D" original="5692DD84" size="14627"/>
-	<archive filename="csgo\steam.inf" checksum="642D270C" original="8C0E0ED6" size="90"/>
 	<archive filename="msvbvm60.dll" checksum="01B3B4AE" original="E92337D1" size="673280"/>
 	<archive filename="platform\9110.bin" checksum="18CEF5C4" original="A412BD62" size="439"/>
 	<archive filename="platform\9110_1.bin" checksum="FCC249CB" original="05B9C42E" size="436"/>
