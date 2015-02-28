@@ -26,8 +26,8 @@
 	<archive filename="platform\avatar_64.tga" checksum="F80499C6" original="DE55BD69" size="16428"/>
 	<archive filename="platform\avatar32x32.bmp" checksum="69180B7F" original="ADD87D9D" size="4166"/>
 	<archive filename="platform\avatar64x64.bmp" checksum="4A236CBD" original="8FD20F58" size="16454"/>
-	<archive filename="platform\items_730.bin" checksum="22AAB83B" original="E2E4CE5D" size="52285"/>
-	<archive filename="platform\mannco.bin" checksum="F0BEAEDE" original="71BF4FE6" size="23906"/>
+	<archive filename="platform\items_730.bin" checksum="084DC21F" original="0DE820BE" size="55863"/>
+	<archive filename="platform\mannco.bin" checksum="6485C884" original="6D911069" size="30691"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
 	<archive filename="steam\Steam.dll" checksum="F582CD0B" original="C01BA9E4" size="358592"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
