@@ -37,5 +37,5 @@
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
 	<archive filename="steamclient.dll" checksum="5CB4C087" original="5F5C8C33" size="2475520"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
-	<archive filename="UltimateNameChanger.exe" checksum="288CF6AE" original="C0799CD7" size="35328"/>
+	<archive filename="UltimateNameChanger.exe" checksum="15187F8F" original="07E937E7" size="32768"/>
 </list>
