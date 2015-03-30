@@ -29,11 +29,11 @@
 	<archive filename="platform\items_730.bin" checksum="084DC21F" original="0DE820BE" size="55863"/>
 	<archive filename="platform\mannco.bin" checksum="6485C884" original="6D911069" size="30691"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
-	<archive filename="steam\Steam.dll" checksum="F582CD0B" original="C01BA9E4" size="358592"/>
+	<archive filename="steam\Steam.dll" checksum="26819896" original="D48C4532" size="363712"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
-	<archive filename="steam\steamclient.dll" checksum="7DBB9448" original="93573A92" size="9698496"/>
-	<archive filename="steam\tier0_s.dll" checksum="BC3197EA" original="CC3C737C" size="277696"/>
-	<archive filename="steam\vstdlib_s.dll" checksum="72AE84FF" original="353CC154" size="260800"/>
+	<archive filename="steam\steamclient.dll" checksum="88F34764" original="1D5BEF05" size="9766592"/>
+	<archive filename="steam\tier0_s.dll" checksum="78B5A105" original="910728C5" size="277696"/>
+	<archive filename="steam\vstdlib_s.dll" checksum="7F74F35C" original="FDF9582D" size="266432"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
 	<archive filename="steamclient.dll" checksum="5CB4C087" original="5F5C8C33" size="2475520"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
