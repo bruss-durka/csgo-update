@@ -19,7 +19,6 @@
 	<archive filename="csgo\sound\statsme\c4timer_8.mp3" checksum="1B10643C" original="D46D02E3" size="11283"/>
 	<archive filename="csgo\sound\statsme\c4timer_9.mp3" checksum="2195E09D" original="5692DD84" size="14627"/>
 	<archive filename="msvbvm60.dll" checksum="01B3B4AE" original="E92337D1" size="673280"/>
-	<archive filename="patchlist.xml" checksum="0F797ED4" original="8B0C772F" size="3890"/>
 	<archive filename="platform\9110.bin" checksum="1E73DB38" original="D77D8E99" size="421"/>
 	<archive filename="platform\9110_1.bin" checksum="FCC249CB" original="05B9C42E" size="436"/>
 	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
