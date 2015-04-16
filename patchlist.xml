@@ -1,10 +1,10 @@
 
 <list>
-	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="1A56BA21" original="8BBAAECC" size="12145664"/>
+	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="5AB0B7EA" original="6A5884DD" size="12146176"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="E85E0FBC" original="F3FDA631" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="1A56BA21" original="8BBAAECC" size="12145664"/>
+	<archive filename="csgo\bin\client.dll" checksum="5AB0B7EA" original="6A5884DD" size="12146176"/>
 	<archive filename="csgo\sound\statsme\c4timer_1.mp3" checksum="17107C02" original="AD854BCE" size="9795"/>
 	<archive filename="csgo\sound\statsme\c4timer_10.mp3" checksum="809AEAF6" original="83E7A45A" size="12955"/>
 	<archive filename="csgo\sound\statsme\c4timer_10x.mp3" checksum="6CDB68E8" original="BE7C59A6" size="24028"/>
