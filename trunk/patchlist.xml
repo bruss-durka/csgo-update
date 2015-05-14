@@ -22,7 +22,7 @@
 	<archive filename="platform\9110.bin" checksum="1E73DB38" original="D77D8E99" size="421"/>
 	<archive filename="platform\9110_.bin" checksum="7AAEF1FE" original="5797B57F" size="438"/>
 	<archive filename="platform\9110_1.bin" checksum="FCC249CB" original="05B9C42E" size="436"/>
-	<archive filename="platform\avatar.dat" checksum="B04D0F4B" original="2751005F" size="1774"/>
+	<archive filename="platform\avatar.dat" checksum="76CA1645" original="ED5B2DC0" size="7602"/>
 	<archive filename="platform\avatar_32.tga" checksum="572AE2B6" original="92228F55" size="4140"/>
 	<archive filename="platform\avatar_64.tga" checksum="F80499C6" original="DE55BD69" size="16428"/>
 	<archive filename="platform\avatar32x32.bmp" checksum="69180B7F" original="ADD87D9D" size="4166"/>
@@ -30,11 +30,11 @@
 	<archive filename="platform\items_730.bin" checksum="FE4AD37F" original="C621C581" size="56976"/>
 	<archive filename="platform\mannco.bin" checksum="E221CC98" original="FE8DED1D" size="25356"/>
 	<archive filename="Steam.dll" checksum="6630F36D" original="F036A0A5" size="389632"/>
-	<archive filename="steam\Steam.dll" checksum="C83135CF" original="9A68D1A3" size="363712"/>
+	<archive filename="steam\Steam.dll" checksum="A26F6A53" original="1646DD80" size="371392"/>
 	<archive filename="steam\Steam2.dll" checksum="1C4C733E" original="05FAFBD2" size="2882984"/>
-	<archive filename="steam\steamclient.dll" checksum="068B515A" original="761131DF" size="9787072"/>
-	<archive filename="steam\tier0_s.dll" checksum="611A50FB" original="E6CAC792" size="277696"/>
-	<archive filename="steam\vstdlib_s.dll" checksum="002FBB9A" original="CCEA62F1" size="266432"/>
+	<archive filename="steam\steamclient.dll" checksum="F84E7064" original="2194D7F6" size="9477824"/>
+	<archive filename="steam\tier0_s.dll" checksum="486331E8" original="1C73B38E" size="278208"/>
+	<archive filename="steam\vstdlib_s.dll" checksum="1553C54A" original="9F992783" size="266944"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
 	<archive filename="steamclient.dll" checksum="5CB4C087" original="5F5C8C33" size="2475520"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
