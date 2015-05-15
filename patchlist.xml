@@ -1,7 +1,7 @@
 
 <list>
 	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="D71F4506" original="30C9ABE5" size="12153344"/>
-	<archive filename="bin\tools\steamcmd.exe" checksum="F12D65EB" original="D11AE326" size="1802944"/>
+	<archive filename="bin\tools\steamcmd.exe" checksum="44B9EC62" original="798A54FE" size="2749120"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="E85E0FBC" original="F3FDA631" size="103424"/>
 	<archive filename="csgo\bin\client.dll" checksum="D71F4506" original="30C9ABE5" size="12153344"/>
