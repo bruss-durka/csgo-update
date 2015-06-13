@@ -36,7 +36,7 @@
 	<archive filename="steam\tier0_s.dll" checksum="968B4F10" original="0504D1A8" size="278208"/>
 	<archive filename="steam\vstdlib_s.dll" checksum="E3CDDB1C" original="A4D54E7B" size="266432"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
-	<archive filename="steamclient.dll" checksum="7859C1C1" original="9ABED423" size="2493440"/>
+	<archive filename="steamclient.dll" checksum="1449BF1C" original="DB2175D3" size="2478592"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
 	<archive filename="UltimateNameChanger.exe" checksum="288CF6AE" original="C0799CD7" size="35328"/>
 </list>
