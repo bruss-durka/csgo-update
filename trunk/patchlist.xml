@@ -1,6 +1,7 @@
 
 <list>
 	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="CA6FF596" original="6F2D6E7D" size="12377600"/>
+	<archive filename="bin\tools\extension\resource\flash\watchpanel.swf" checksum="5901550C" original="872BF088" size="71732"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="44B9EC62" original="798A54FE" size="2749120"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="A2536071" original="68A83E0D" size="103424"/>
@@ -37,7 +38,7 @@
 	<archive filename="steam\tier0_s.dll" checksum="69967A34" original="EB85B079" size="278208"/>
 	<archive filename="steam\vstdlib_s.dll" checksum="D3A5C4C4" original="D502C858" size="266944"/>
 	<archive filename="steam_appid.txt" checksum="511454C8" original="0CD77F9B" size="3"/>
-	<archive filename="steamclient.dll" checksum="1449BF1C" original="DB2175D3" size="2478592"/>
+	<archive filename="steamclient.dll" checksum="25A15965" original="30116830" size="2480640"/>
 	<archive filename="tool.exe" checksum="B2977FF7" original="00CD4511" size="132910"/>
 	<archive filename="UltimateNameChanger.exe" checksum="288CF6AE" original="C0799CD7" size="35328"/>
 </list>
