@@ -1,12 +1,12 @@
 
 <list>
-	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="CA6FF596" original="6F2D6E7D" size="12377600"/>
-	<archive filename="bin\tools\extension\csgo\resource\flash\watchpanel.swf" checksum="5901550C" original="872BF088" size="71732"/>
+	<archive filename="bin\tools\extension\csgo\bin\client.dll" checksum="3069B823" original="4256CB3F" size="12377600"/>
+	<archive filename="bin\tools\extension\csgo\resource\flash\watchpanel.swf" checksum="235BB2B8" original="9BE7EB23" size="73459"/>
 	<archive filename="bin\tools\steamcmd.exe" checksum="44B9EC62" original="798A54FE" size="2749120"/>
 	<archive filename="Counter-Strike_Global_Offensive.exe" checksum="0B6D3189" original="370CCD21" size="425472"/>
 	<archive filename="csgo.exe" checksum="A2536071" original="68A83E0D" size="103424"/>
-	<archive filename="csgo\bin\client.dll" checksum="CA6FF596" original="6F2D6E7D" size="12377600"/>
-	<archive filename="csgo\resource\flash\watchpanel.swf" checksum="5901550C" original="872BF088" size="71732"/>
+	<archive filename="csgo\bin\client.dll" checksum="3069B823" original="4256CB3F" size="12377600"/>
+	<archive filename="csgo\resource\flash\watchpanel.swf" checksum="235BB2B8" original="9BE7EB23" size="73459"/>
 	<archive filename="csgo\sound\statsme\c4timer_1.mp3" checksum="17107C02" original="AD854BCE" size="9795"/>
 	<archive filename="csgo\sound\statsme\c4timer_10.mp3" checksum="809AEAF6" original="83E7A45A" size="12955"/>
 	<archive filename="csgo\sound\statsme\c4timer_10x.mp3" checksum="6CDB68E8" original="BE7C59A6" size="24028"/>
